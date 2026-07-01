@@ -4,12 +4,7 @@ metadata:
   name: off-hours-savings
   namespace: team-alpha-dev
 spec:
-  weekdays:
-    - "Monday"
-    - "Tuesday"
-    - "Wednesday"
-    - "Thursday"
-    - "Friday"
+  weekdays: "1-5"
   sleepAt: "19:00"
   wakeUpAt: "07:00"
   timeZone: "Asia/Karachi"

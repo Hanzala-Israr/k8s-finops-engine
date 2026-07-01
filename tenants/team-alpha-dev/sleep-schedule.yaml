@@ -4,8 +4,8 @@ metadata:
   name: off-hours-savings
   namespace: team-alpha-dev
 spec:
-  weekdays: "*"
-  sleepAt: "06:45"
-  wakeUpAt: "23:59"
+  weekdays: "1-5"
+  sleepAt: "07:00"
+  wakeUpAt: "08:00"
   timeZone: "UTC"
   suspendDeployments: true

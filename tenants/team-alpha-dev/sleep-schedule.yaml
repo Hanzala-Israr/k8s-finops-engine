@@ -5,7 +5,7 @@ metadata:
   namespace: team-alpha-dev
 spec:
   weekdays: "1-5"
-  sleepAt: "06:00"
+  sleepAt: "06:08"
   wakeUpAt: "23:59"
   timeZone: "UTC"
   suspendDeployments: true

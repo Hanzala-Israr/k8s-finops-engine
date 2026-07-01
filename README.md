@@ -3,7 +3,7 @@
 > **A multi-tenant Kubernetes framework leveraging ArgoCD, native Kubernetes Resource Governance, and the CNCF Kube-green Operator to enforce infrastructure budget guardrails and reduce non-production compute costs by 40–50%.**
 
 <p align="center">
-  <video src="https" width="100%" controls autoplay loop muted></video>
+  <video src="https://github.com/user-attachments/assets/154ec8d1-5133-4d20-9eda-38ccb536aba9" width="100%" controls autoplay loop muted></video>
 </p>
 
 ---

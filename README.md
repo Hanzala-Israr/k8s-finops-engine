@@ -75,8 +75,8 @@ Development environments are automatically suspended outside working hours, whil
          Down to Zero
 ```
 
-<img width="1600" height="863" alt="argo-khan" src="https://github.com/user-attachments/assets/d7a596f2-bb5b-40a3-9f54-298d3ba36e62" />
-
+<!-- <img width="1600" height="863" alt="argo-khan" src="https://github.com/user-attachments/assets/d7a596f2-bb5b-40a3-9f54-298d3ba36e62" /> -->
+<img width="1600" height="941" alt="WhatsApp Image 2026-07-01 at 10 42 04 AM" src="https://github.com/user-attachments/assets/311e354d-fe94-4a24-b4e7-74cfeb63e5db" />
 
 ---
 
